@@ -1,0 +1,8 @@
+# Ignore all build directories recursively
+**/build/
+**/out/
+
+# Ignore all .vscode folders recursively
+**/.vscode/
+
+
